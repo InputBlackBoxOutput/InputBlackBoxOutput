@@ -1,4 +1,7 @@
 ### Hi there 👋
+<br>
+
+![](https://komarev.com/ghpvc/?username=InputBlackBoxOutput&style=flat-square)
 
 <!--
 **InputBlackBoxOutput/InputBlackBoxOutput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
