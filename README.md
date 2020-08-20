@@ -9,7 +9,9 @@ while(alive) {
    code();
 }
 ```
-![](https://komarev.com/ghpvc/?username=InputBlackBoxOutput&style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=InputBlackBoxOutput&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+
+<!-- ![](https://komarev.com/ghpvc/?username=InputBlackBoxOutput&style=flat-square) -->
 
 <!--
 **InputBlackBoxOutput/InputBlackBoxOutput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
