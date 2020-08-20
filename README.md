@@ -1,6 +1,14 @@
 ### Hi there 👋
 <br>
 
+``` c
+// The source code of my life
+while(alive) {
+   eat();
+   //sleep();
+   code();
+}
+```
 ![](https://komarev.com/ghpvc/?username=InputBlackBoxOutput&style=flat-square)
 
 <!--
