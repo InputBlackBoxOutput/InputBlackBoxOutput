@@ -1,3 +1,6 @@
+``` 
+Student by day, techie by night
+```
 <img src="https://github-readme-stats.vercel.app/api?username=InputBlackBoxOutput&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 <br>
 
@@ -9,6 +12,7 @@ while(alive) {
    code();
 }
 ```
+[Know more about me](https://inputblackboxoutput.github.io/Online_Resume/)
 
 <!-- ![](https://komarev.com/ghpvc/?username=InputBlackBoxOutput&style=flat-square) -->
 
