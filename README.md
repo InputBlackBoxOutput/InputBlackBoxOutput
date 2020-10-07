@@ -1,7 +1,10 @@
 ``` 
 Student by day, techie by night
 ```
-<img src="https://github-readme-stats.vercel.app/api?username=InputBlackBoxOutput&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+
+|||
+|--|--|
+|<img src="https://github.com/InputBlackBoxOutput/InputBlackBoxOutput/blob/master/Explorer.png" height=300>|<img src="https://github-readme-stats.vercel.app/api?username=InputBlackBoxOutput&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">|
 <br>
 
 ``` c
