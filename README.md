@@ -1,6 +1,9 @@
 ``` 
 Student by day, techie by night
 ```
+[Know more about me](https://inputblackboxoutput.github.io/Online_Resume/)
+
+[See all my projects](https://inputblackboxoutput.github.io/Online_Resume/projects.html)
 
 |||
 |--|--|
@@ -15,7 +18,6 @@ while(alive) {
    code();
 }
 ```
-[Know more about me](https://inputblackboxoutput.github.io/Online_Resume/)
 
 <!-- ![](https://komarev.com/ghpvc/?username=InputBlackBoxOutput&style=flat-square) -->
 
