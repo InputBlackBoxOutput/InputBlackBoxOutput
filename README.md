@@ -3,12 +3,12 @@ Student by day, techie by night
 ```
 [Know more about me](https://bit.ly/3orQExg)
 
-[See all the projects I have worked on either individually or in a team](https://bit.ly/3pQZB3Z)
+[See all projects](https://bit.ly/3pQZB3Z)
 
-<!--|||
+<!-- |||
 |--|--|
-|<img src="https://github.com/InputBlackBoxOutput/InputBlackBoxOutput/blob/master/Explorer.png" height=300>|<img src="https://github-readme-stats.vercel.app/api?username=InputBlackBoxOutput&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">|
-<br> -->
+|<img src="https://github.com/InputBlackBoxOutput/InputBlackBoxOutput/blob/master/Explorer.png" height=300>|<img src="https://github-readme-stats.vercel.app/api?username=InputBlackBoxOutput&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">| -->
+<br>
 
 ``` c
 // The source code of my life :-)
