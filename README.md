@@ -1,9 +1,9 @@
 ``` 
 Student by day, techie by night
 ```
-[Know more about me](https://inputblackboxoutput.github.io/Online_Resume/)
+[Know more about me](https://bit.ly/3orQExg)
 
-[See all my projects](https://inputblackboxoutput.github.io/Online_Resume/projects.html)
+[See all the projects I have worked on either individually or in a team](https://bit.ly/3pQZB3Z)
 
 <!--|||
 |--|--|
