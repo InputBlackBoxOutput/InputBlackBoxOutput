@@ -11,10 +11,11 @@ Student by day, techie by night
 <br>
 
 ``` c
-// The source code of my life :-)
+// The source code of my life 😄
 while(alive) {
    eat();
    //sleep();
+   study();
    code();
 }
 ```
