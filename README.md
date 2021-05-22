@@ -1,9 +1,9 @@
 ``` 
 Student by day, techie by night
 ```
-[Know more about me](https://bit.ly/3orQExg)
+[Know more about me](https://bit.ly/3kHIjCz)
 
-[See all projects](https://bit.ly/3pQZB3Z)
+[See all projects](https://inputblackboxoutput.netlify.app/projects)
 
 <!-- |||
 |--|--|
