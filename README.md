@@ -1,7 +1,7 @@
 #  Hello !
 
 <samp>
-My name is Rutuparn Pawar. I am currently a graduate student studying Electrical and Computer Engineering at the University of Texas at Austin. In my leisure time, I  collaborate with engineers from open-source communities & students from universities to research, build and deploy solutions for complex engineering problems.
+My name is Rutuparn Pawar. In my leisure time, I  collaborate with engineers from open-source communities & students from universities to research, build and deploy solutions for complex engineering problems.
 </samp>
 <br><br>
 
