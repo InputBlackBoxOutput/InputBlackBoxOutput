@@ -6,7 +6,7 @@ My name is Rutuparn Pawar. In my leisure time, I  collaborate with engineers fro
 <br><br>
 
 <samp>
-Thank you for taking the time to view my GitHub profile :-). Connect with me via email at <code>rutuparn.pawar@outlook.com</code> and please feel free to visit my <a href="https://inputblackboxoutput.netlify.app/">website</a> to learn more about me.
+Thank you for taking the time to view my GitHub profile :-). Connect with me via email at <code>rutuparn.pawar@outlook.com</code> and please feel free to checkout my <a href="https://inputblackboxoutput.netlify.app/portfolio">project portfolio</a>.
 </samp>
 <br><br>
 
